@@ -23,6 +23,7 @@ body{
     width: 250px;
     padding-bottom: 150px;
     text-align: center;
+    box-shadow: 6px 6px 30px rgb(82, 78, 78)
 }
 h2{
     color: orangered;
@@ -56,6 +57,8 @@ hr{
     top: 300px;
     right: 600px;
     background-color: white;
+    box-shadow: 6px 6px 15px rgb(82, 78, 78)
+
 }
 #additem{
     background-color: orangered;
@@ -63,6 +66,8 @@ hr{
     width: 70px;
     height: 30px;
     color: aliceblue;
+    box-shadow: 6px 6px 15px rgb(82, 78, 78)
+
 }
 #textbox{
     border-color: orange;
